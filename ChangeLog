@@ -1,3 +1,11 @@
+
+
+IN PROGRESS v0.6.2-arch
+
+            * FreeWheeling now requires nettle instead of gnutls-openssl
+              because gnutls-openssl is no longer supported on ArchLinux
+
+
 2016-10-31 v0.6.1
             * new repo
               sadly, JP has been incommunicado for some time 
